@@ -9,9 +9,9 @@ Complete fort-awesome icons (369 Icons)
 Usage
 =====
 
-<pre><code>
+``` html
 <iframe src="http://dbtek.github.io/fa-random-icon/fa-random.html" allowtransparency="true" frameborder="0" scrolling="0" width="20" height="20" />
-</code></pre>
+```
 
 This is it, Enjoy !
 
