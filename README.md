@@ -3,7 +3,7 @@ Random Font-Awesome Icons
 
 Random font-awesome icon generator. Hosted on gh-pages, no configuration !
 
-Complete fort-awesome icons (369 Icons)
+Complete font-awesome icons (369 Icons)
 
 Usage
 =====
