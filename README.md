@@ -1,4 +1,4 @@
-fa-random-icon
+Random Font-Awesome Icons
 ==============
 
 Random font-awesome icon generator. Hosted on gh-pages, no configuration !
