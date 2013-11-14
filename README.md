@@ -19,3 +19,7 @@ License
 
 [MIT](http://opensource.org/licenses/MIT)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/fa-random-icon/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
